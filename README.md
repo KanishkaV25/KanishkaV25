@@ -1,11 +1,14 @@
 ## Hi, I'm Kanishka 🌟
     
-    🌹 Just a CS student who’s a little *obsessed* with pixels, pretty interfaces, and problem-solving.
-    ✨Tech is creativity
-    🎨 I love designing dreamy UI/UX,  
-    💻 turning it into magical front-end code.  
-    🧠 When I'm not creating stunning UI elements, you'll find me solving DSA problems and constantly improving my coding skills.
-Welcome to my corner of the web. Let's create something amazing together! 🌟
+    🌸 Just a curious CS student on a journey of building, exploring, and solving problems.  
+✨ To me, tech is creativity — a space where logic meets imagination.  
+🧩 I don’t limit myself to one stack — I pick up whatever tool is needed to bring ideas to life.  
+🎨 Sometimes that’s designing beautiful UI/UX,  
+💻 other times it’s writing clean backend logic, practicing DSA, or experimenting with GenAI.  
+🚀 Shaolin.dev is where I share this journey — a witness of growth, learning, and creation.  
+
+Welcome to my corner of the web. Let’s create something meaningful together! 🌟
+
 🔗 Let's Connect:  
 [LinkedIn](www.linkedin.com/in/kanishka-vats) | [GitHub](https://github.com/KanishkaV25/KanishkaV25)
 
