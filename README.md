@@ -9,7 +9,10 @@
 
 Welcome to my corner of the web. Let’s create something meaningful together! 🌟
 
-🔗 Let's Connect:  
+🔗 Let's Connect:  <a href="https://shaolin.dev" target="_blank">
+  <img src="https://img.shields.io/badge/Shaolin.dev-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
 [LinkedIn](www.linkedin.com/in/kanishka-vats) | [GitHub](https://github.com/KanishkaV25/KanishkaV25)
 
 # 💻 Tech Stack:
