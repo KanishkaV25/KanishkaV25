@@ -1,17 +1,14 @@
-## Hi, I'm Kanishka 🌟
-    
-    🌸 Just a curious CS student on a journey of building, exploring, and solving problems.  
+## 🌸 Kanishka Vats | Shaolin.dev  
+Exploring tech, solving problems, creating meaning
+
+🌸 Just a curious CS student on a journey of building, exploring, and solving problems.  
 ✨ To me, tech is creativity — a space where logic meets imagination.  
 🧩 I don’t limit myself to one stack — I pick up whatever tool is needed to bring ideas to life.  
 🎨 Sometimes that’s designing beautiful UI/UX,  
 💻 other times it’s writing clean backend logic, practicing DSA, or experimenting with GenAI.  
 🚀 Shaolin.dev is where I share this journey — a witness of growth, learning, and creation.  
 
-Welcome to my corner of the web. Let’s create something meaningful together! 🌟
-
-🔗 Let's Connect:  <a href="https://shaolin.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Shaolin.dev-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+## Welcome to my corner of the web. Let’s create something meaningful together! 🌟
 
 [LinkedIn](www.linkedin.com/in/kanishka-vats) | [GitHub](https://github.com/KanishkaV25/KanishkaV25)
 
