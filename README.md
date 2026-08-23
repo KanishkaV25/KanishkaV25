@@ -1,14 +1,19 @@
 ## 🌸 Kanishka Vats | Shaolin.dev  
 Exploring tech, solving problems, creating meaning
+🌸 **B.Tech student and aspiring backend engineer** building at the intersection of software engineering, AI, and problem solving.
 
-🌸 Just a curious CS student on a journey of building, exploring, and solving problems.  
-✨ To me, tech is creativity — a space where logic meets imagination.  
-🧩 I don’t limit myself to one stack — I pick up whatever tool is needed to bring ideas to life.  
-🎨 Sometimes that’s designing beautiful UI/UX,  
-💻 other times it’s writing clean backend logic, practicing DSA, or experimenting with GenAI.  
-🚀 Shaolin.dev is where I share this journey — a witness of growth, learning, and creation.  
+💻 I’m focused on understanding how things work under the hood — designing APIs, working with databases, building scalable backend systems, and turning ideas into real, deployable products.
 
-## Welcome to my corner of the web. Let’s create something meaningful together! 🌟
+🧠 Along the way, I’m strengthening my **DSA and problem-solving skills**, exploring **Generative AI**, and learning the engineering practices that turn projects into production-ready systems.
+
+🛠️ I don’t believe in being limited to one stack. I learn the technology a problem demands — from **FastAPI, Node.js, MongoDB, and Qdrant** to React, cloud services, and AI APIs.
+
+🚀 **Shaolin.dev** is my digital workshop — a place where I document what I build, what I learn, the problems I solve, and the journey of becoming a better engineer.
+
+## Welcome to my corner of the web.
+
+### Build. Break. Learn. Create. Repeat. 🌟
+
 
 [LinkedIn](www.linkedin.com/in/kanishka-vats) | [GitHub](https://github.com/KanishkaV25/KanishkaV25)
 
